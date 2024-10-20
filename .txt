@@ -29,8 +29,8 @@ This application allows users to create, edit, delete, and view tasks, with a cl
 
 * Backend (Server Setup):-
     -Navigate to the backend directory =  cd backend
-    -Install the dependencies = npm install
-    -Start the server = npm start
+-Install the dependencies = npm install
+    -Start the server = npm run dev
     -The server will start at http://localhost:5000.
 
 * Frontend (Client Setup):-
@@ -46,7 +46,7 @@ This application allows users to create, edit, delete, and view tasks, with a cl
 
 *Running the Full Application :-------->>
     -Start the backend server: 
-        - Open a terminal and run ==> cd backend  ==> npm start
+        - Open a terminal and run ==> cd backend  ==> npm run dev
 
     -Start the frontend:
         - Open another terminal and run ==> cd frontend ==> npm start
